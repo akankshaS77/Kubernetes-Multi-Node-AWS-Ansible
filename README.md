@@ -2,7 +2,7 @@
 
 ## “Automating Kubernetes Cluster Over AWS Using Ansible” by Akanksha Singh
 
-#### Blog Link - 
+#### Blog Link - https://akanksha77.medium.com/automate-kubernetes-cluster-over-aws-using-ansible-3a1b3f78cfee
 
 ### Objective :
 
