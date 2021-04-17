@@ -1,15 +1,15 @@
 # The Full procedure of doing this practical you can find in below link :
 
-## “Deploying Multi Node Kubernetes Cluster on AWS using Ansible Automation !!!” by Raktim Midya
+## “Automating Kubernetes Cluster Over AWS Using Ansible” by Akanksha Singh
 
-#### Blog Link - https://link.medium.com/lQpS31wttfb
-#### Video Demonstration - https://bit.ly/3a9GA6I
+#### Blog Link - 
 
-### Problem Statement :
+### Objective :
 
-1. Create Ansible Role to launch 3 AWS EC2 Instance.
-2. Create Ansible Role to configure Docker over those instances.
-3. Create Role to configure K8S Master, K8S Worker Nodes on the above created EC2 Instances using kubeadm.
+1 ▪ How Kubernetes Master Role be written using Ansible Role?
+2 ▪ How Kubernetes Slave/Worker Role be written using Ansible Role?
+3 ▪ How AWS EC2 instance Creation Role be written using Ansible Role?
+4 ▪ Finally we will Configure whole setup of Kubernetes Multi-node cluster over AWS by running Setup.yml file in Ansible from our local System.
 
 ##### Note: Complete process have to be automated.
 ##### Summary : One Click Instance Launched and Kubernetes Multi Node Cluster on AWS Deployed !
